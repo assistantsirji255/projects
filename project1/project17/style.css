@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(98, 1, 98);
+    /* display: flex;
+    justify-content: center;
+    flex-direction: column; */
+    /* margin-top: 100px; */
+
+}
+img{
+    height: 120px;
+    width: 150px;
+    border-radius: 50%;
+}
+.heading1{
+    padding-top: 20px;
+    /* padding-bottom: 15px; */
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+.para1{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 50px;
+}
